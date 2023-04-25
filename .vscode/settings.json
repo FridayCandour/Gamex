@@ -5,5 +5,7 @@
     "source.organizeImports": true,
     "source.fixAll": true
   },
-  "zig.buildOnSave": true
+  "zig.buildOnSave": true,
+  "deno.enable": true,
+  "deno.unstable": true
 }
